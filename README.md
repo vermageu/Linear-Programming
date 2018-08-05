@@ -7,7 +7,7 @@ An objective function defines the quantity to be optimized, and the goal of line
 
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-	                                           ::PROBLEM STATEMENT::
+	                                          ::PROBLEM STATEMENT::
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 A car company produces 2 models, model A and model B. Long-term projections indicate an expected demand of at least 100 model A cars and 80 model B cars each day. 
